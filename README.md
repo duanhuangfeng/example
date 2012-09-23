@@ -1,5 +1,0 @@
-example
-=======
-dd
-dd
-ddd
